@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'ui/weight_on_planet.dart';
+import 'package:ui/weight_on_planet.dart';
 
 void main(){
     runApp(
