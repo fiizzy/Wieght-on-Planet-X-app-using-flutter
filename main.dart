@@ -4,6 +4,6 @@ import 'ui/weight_on_planet.dart';
 void main(){
     runApp(
     new MaterialApp(
-    title: "Weight on palnet X")
+    title: "Weight on palnet X",)
     home: new WeightOnPlanet);
 }
